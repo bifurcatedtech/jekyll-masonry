@@ -1,8 +1,8 @@
 permalink: /:categories/:title.html
 url: "http://bifurcatedtech.com/"
 full_name: "Bifurcated Tech"
-first_name: "First Name"
-last_name: "Last Name"
+first_name: "Bifurcated"
+last_name: "Tech"
 blog_title: "Blog title "
 author_img_name_path: "/images/users/user.jpg"
 disqus_shortname: "bifurcatedtech"
