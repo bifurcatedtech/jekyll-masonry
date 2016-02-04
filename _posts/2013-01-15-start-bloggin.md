@@ -3,7 +3,7 @@ layout: blog
 title: Here is the title of the post
 category: blog
 tags: [tags for the post, is here]  
-summery: Here is a summary of the post
+summary: Here is a summary of the post
 image: /images/blog/blogging-again.png
 ---
 
