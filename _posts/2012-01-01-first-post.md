@@ -9,7 +9,7 @@ image: /images/blog/BSG-evolution-banner1.jpg
 
 Here we go.
 
-```
+---
 (Roslin, Adama and Doral are walking down a corridor)
 
 Roslin: It tells people things like where the restroom is, and-
@@ -26,8 +26,8 @@ Adama: Let me explain something to you. Many good men and women lost their lives
 
 Roslin: Yes, sir.
 
-Adama: Thank you. 'Scuse me. (He walks away; Dualla shows up with Billy.) 
-```
+Adama: Thank you. 'Scuse me. (He walks away; Dualla shows up with Billy.)
+---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k3CN-wR05pY" frameborder="0" allowfullscreen></iframe>
 
 Some more text.
