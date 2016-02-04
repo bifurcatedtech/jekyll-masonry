@@ -4,7 +4,7 @@ title: First Post
 category: blog
 tags: [tags for the post, is here]  
 summery: Here's our first post
-image: /images/blog/blogging-again.png
+image: /images/blog/BSG-evolution-banner1.jpg
 ---
 
 Here we go.
