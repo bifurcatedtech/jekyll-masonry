@@ -2,7 +2,7 @@
 layout: blog
 title: First Post
 category: blog
-tags: [tags for the post, is here]  
+tags: [slow tech]  
 summary: Commander Adama's take on integrated computer networks
 image: /images/blog/BSG-evolution-banner1.jpg
 ---
