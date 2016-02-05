@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: First Post
+title: Network Computerized System
 category: blog
 tags: [slow tech]  
 summary: Commander Adama's take on integrated computer networks
