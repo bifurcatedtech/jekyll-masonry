@@ -27,18 +27,9 @@ Adama: Let me explain something to you. Many good men and women lost their lives
 Roslin: Yes, sir.
 
 Adama: Thank you. 'Scuse me. (He walks away; Dualla shows up with Billy.)
----
+
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k3CN-wR05pY" frameborder="0" allowfullscreen></iframe>
 
-Some more text.
-
-'''
-<html>
-<head>
-<title>here is a title</title>
-</head>
-<body>
-here is our body! weird!
-</body>
-</html>
-'''
+Just the trailer for now, will replace with the actual clip. 
