@@ -32,7 +32,7 @@ Adama: Thank you. 'Scuse me. (He walks away; Dualla shows up with Billy.)
 
 Some more text.
 
-```
+'''
 <html>
 <head>
 <title>here is a title</title>
@@ -41,4 +41,4 @@ Some more text.
 here is our body! weird!
 </body>
 </html>
-```
+'''
