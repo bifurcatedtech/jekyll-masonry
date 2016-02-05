@@ -3,12 +3,11 @@ layout: blog
 title: First Post
 category: blog
 tags: [tags for the post, is here]  
-summary: Here's our first post
+summary: Commander Adama's take on integrated computer networks
 image: /images/blog/BSG-evolution-banner1.jpg
 ---
 
-Here we go.
-
+Here we go:
 ---
 (Roslin, Adama and Doral are walking down a corridor)
 
