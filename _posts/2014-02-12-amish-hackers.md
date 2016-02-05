@@ -3,7 +3,7 @@ layout: blog
 title: Amish Hackers
 category: blog
 tags: [slow tech]  
-summary: Ever heard of "Amish electricity"?
+summary: Ever heard of 'Amish electricity'?
 image: /images/blog/amish-hackers.jpg
 ---
 
