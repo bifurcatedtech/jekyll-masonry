@@ -4,7 +4,7 @@ title: Amish Hackers
 category: blog
 tags: [slow tech]  
 summary: Ever heard of "Amish electricity"?
-image: /images/blog/BSG-evolution-banner1.jpg
+image: /images/blog/amish-hackers.jpg
 ---
 
 Amish hackers
